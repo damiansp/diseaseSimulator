@@ -1,3 +1,5 @@
+# Disease Simulator
+
 This R script is a simulator for disease prevalence and population dynamics 
 given a variety of user-specified parameters governing the population and 
 disease (e.g. proportions of different age and sex classes, reproductive rates,
