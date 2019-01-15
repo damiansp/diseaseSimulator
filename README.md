@@ -17,8 +17,6 @@ Iterative sequence begins here:
 * Plot new distribution
 
 TODO:
-* [ ] Migrate to summer grounds: `Population.migrate('summer')`
-* [ ] Plot
 * [ ] Calcualate home ranges: `Populaton.calculate_ranges()` [possibly private]
 * [ ] Plot ranges
 * [ ] Initialize soil matrix (distribution of infectious material in the environment: `Soil()` (`Soil.__init__()`)
